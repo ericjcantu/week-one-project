@@ -1,0 +1,44 @@
+body{
+  background-color: #F2F1E8;
+}
+
+
+header{
+  text-align: center;
+  background-color: white;
+  padding: 20px;
+  margin: 3px;
+
+}
+
+h1{
+  text-align: center;
+}
+
+h3{
+  text-align: center;
+}
+
+.container{
+  height: 300px;
+  width: 300px;
+}
+
+.container2{
+  height: 300px;
+  width: 300px;
+
+}
+
+.img1{
+  position: relative;
+  width: 100%;
+}
+
+span{
+  position: absolute;
+ top: 200px;
+ left: 0;
+ width: 100%;
+ color: white;
+}
