@@ -1,44 +1,169 @@
-body{
-  background-color: #F2F1E8;
+  body{
+    padding-left: 43px;
+
+  }
+
+  .navbar {
+    padding-bottom: 50px;
+  }
+
+.img1{
+  background-image: url("/Users/admin/Downloads/projects/product-1.jpg");
+  height: 350px;
+  width: 570px;
+  background-size: cover;
+
 }
 
+.img2{
+background-image: url("/Users/admin/Downloads/projects/product-2.jpg");
+height: 350px;
+width: 320px;
+background-size: cover;
+margin-left: 16px;
+background-position: 5px;
 
-header{
+}
+
+.img3{
+background-image: url("/Users/admin/Downloads/projects/product-3.jpg");
+height: 350px;
+width: 320px;
+background-size: cover;
+background-position: 15px;
+margin-left: 16px;
+
+}
+
+.img4{
+background-image: url("/Users/admin/Downloads/projects/product-4.jpg");
+height: 300px;
+height: 300px;
+width: 260px;
+background-size: cover;
+background-position: -41px;
+
+
+}
+
+.img5{
+background-image: url("/Users/admin/Downloads/projects/product-5.jpg");
+eight: 350px;
+width: 260px;
+background-size: cover;
+background-position: -53px;
+margin-left: 16px;
+
+}
+
+.img6{
+background-image: url("/Users/admin/Downloads/projects/product-6.jpg");
+eight: 350px;
+background-size: cover;
+background-position: 15px;
+margin-left: 16px;
+width: 416px;
+
+
+}
+
+.img7{
+background-image: url("/Users/admin/Downloads/projects/product-7.jpg");
+eight: 350px;
+width: 260px;
+background-size: cover;
+background-position: 15px;
+margin-left: 16px;
+background-position: -42px;
+
+}
+
+.container{
+  display: inline-flex;
   text-align: center;
-  background-color: white;
-  padding: 20px;
-  margin: 3px;
+  padding-left: 45px;
+  margin-top: 8px;
+
+
+}
+
+.container2{
+display: inline-flex;
+text-align: center;
+padding-top: 12px;
+padding-left: 42px;
 
 }
 
 h1{
   text-align: center;
+  font-size: 67px;
+  margin-right: 57px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+
+
 }
 
 h3{
   text-align: center;
-}
+  margin-left: -50px;
+  font-size: 40px;
+  margin-top: -30px;
 
-.container{
-  height: 300px;
-  width: 300px;
-}
-
-.container2{
-  height: 300px;
-  width: 300px;
 
 }
 
-.img1{
-  position: relative;
-  width: 100%;
+.navbar{
+  text-align: center;
+  font-size: 22px;
+
+}
+
+body{
+  background-color: #F2F1E8;
+}
+
+header{
+  background-color: white;
+  margin-left: -43px;
+  padding: 0;
+  padding-top: 5px;
+
 }
 
 span{
+  color: white;
+  border: 3px solid gray;
+  background-color: gray;
+  font-size: 22px;
   position: absolute;
- top: 200px;
- left: 0;
- width: 100%;
- color: white;
+  position: absolute;
+  margin-top: 280px;
+  margin-left: -150px;
+
+
+
+}
+
+footer{
+  border: 2px solid #2B2F26;
+  background-color: #2B2F26;
+  color: white;
+  margin-left: -49px;
+  padding: 30px;
+  margin-top: 11px;
+
+}
+
+.finalimg{
+  text-align: left;
+  height: 80px;
+  margin-bottom: -4px;
+  padding-top: 0px;
+  margin-top: -43px;
+
+
+
+
 }
